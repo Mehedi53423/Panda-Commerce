@@ -1,2 +1,2 @@
 # Panda Commerce
-## It's a E-Commerce Website
+## It's an E-Commerce Website
